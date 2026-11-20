@@ -1,4 +1,4 @@
-# Profile
+# Vedantagar19
 # 💫 About Me:
 🔭 I’m currently pursuing a B Tech. degree on E.C.E in NIT Tiruchirappalli<br>👯 I’m looking to collaborate on with classmates on beginner projects and labs, senior mentors in technical clubs (like Spider, Delta, or RMI), and professors for early research exposure.<br>🌱 Exploring Semiconductor Technologies & Digital Electronics<br>\Trying to improve every day<br>
 
